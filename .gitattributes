@@ -49,7 +49,7 @@
 
 # Scripts
 *.bash     text eol=lf
-*.bashrc   text eol=lf
+*.bash.additions   text eol=lf
 *.fish     text eol=lf
 *.sh       text eol=lf
 *.zsh      text eol=lf
