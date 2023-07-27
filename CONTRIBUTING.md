@@ -4,7 +4,7 @@ FarmData2 welcomes participation and contributions. There are many ways to contr
 
 ## Code of Conduct ##
 
-To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenent](CODE_OF_CONDUCT.md).
+To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## Licensing ##
 
@@ -20,7 +20,8 @@ If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat applic
 
 There are many ways to participate in FarmData2. Some of them are listed below.  
 
-Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step by step instructions for getting FarmData2 up and running.
+
+Having a running version of FarmData is a prerequisite for many of the forms of participation.  The [Install Directions] give step-by-step instructions for getting FarmData2 up and running.
 
 [Install Directions]: INSTALL.md
 
